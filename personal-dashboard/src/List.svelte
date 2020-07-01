@@ -29,7 +29,6 @@
 	];
 
 	let uid = todos.length + 1;
-
 	function add(input) {
 		const todo = {
 			id: uid++,
