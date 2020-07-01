@@ -10,7 +10,6 @@
 	<Date/>
 <br>
 	<List/>
-
 </main>
 
 <style>
